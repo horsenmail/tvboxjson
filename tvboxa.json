@@ -8,7 +8,7 @@
             "playerType": 1,
             "boot": false,
             "timeout": 10,
-            "url": "https://shop.horsenma.net/app/live-20240618.txt"
+            "url": "https://github.com/horsenmail/tvboxjson/raw/master/live-20240618.txt"
         },
         {
             "name": "手机直播",
